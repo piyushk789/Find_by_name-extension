@@ -59,6 +59,10 @@ The tool supports a default set of common file extensions, but users have the fl
 
 Users can customize the list of supported file extensions by modifying the `getJSON` function in the script. Additionally, the default set of extensions is loaded from a JSON file (`Extension-data.json`), which users can update according to their requirements.
 
+## Executable Version
+
+An executable version of the File Search Tool is available for easy use. Download the executable [here](link_to_executable) and follow the instructions in the [How to Run](#how-to-run) section to get started quickly.
+
 ## Contributing
 
 Contributions are welcome! Feel free to open issues, submit pull requests, or suggest improvements to enhance the functionality and usability of the File Search Tool.
