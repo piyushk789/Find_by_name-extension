@@ -1,3 +1,7 @@
+# || Name   : Kartikey Baghel
+# || Github : https://github.com/piyushk789/Find_by_name-extension
+# || Mail   : kartikeybaghel@hotmail.com
+
 # Find by file name-extension.
 
 from tkinter import Tk, ttk, messagebox, filedialog, StringVar
