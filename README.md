@@ -8,6 +8,7 @@ A simple and intuitive GUI application built in Python using Tkinter, the File S
 - [Usage](#usage)
 - [Dependencies](#dependencies)
 - [How to Run](#how-to-run)
+- [How to Run the Executable](#how-to-run-the-executable)
 - [Customization](#customization)
 - [Contributing](#contributing)
 - [License](#license)
@@ -49,11 +50,32 @@ The tool supports a default set of common file extensions, but users have the fl
 - **Python 3.x:** The tool is built using Python, so ensure you have a compatible version installed.
 - **Tkinter:** Tkinter is included with most Python installations and serves as the GUI toolkit for the application.
 
-## How to Run
+## How to Run Script
 
 1. Ensure you have Python installed on your system.
 2. Clone or download the repository.
 3. Run the script using the command: `python Find-by-name-extension.py`.
+
+## How to Run the Executable
+
+If you prefer not to run the Python script directly, an executable (`.exe`) version of the File Search Tool is available for simplified use. Follow these steps to run the executable:
+
+1. **Download the Executable:**
+   - Download the executable file from the `ZIP` of this repository.
+
+2. **Extract ZIP (if applicable):**
+   - If the executable is packaged within a ZIP file, extract its contents to a location of your choice.
+
+3. **Run the Executable:**
+   - Double-click on the `FileSearchTool.exe` to launch the application.
+
+4. **Use the GUI:**
+   - The graphical user interface (GUI) will appear, allowing you to enter search criteria and initiate the file search.
+
+5. **View Results:**
+   - Results will be presented in Notepad or through a messagebox, providing a convenient way to review matching files.
+
+Note: Ensure that you have the necessary permissions to run executables on your Admin system. If you encounter any issues, `Run as administrator`.
 
 ## Customization
 
@@ -61,7 +83,7 @@ Users can customize the list of supported file extensions by modifying the `getJ
 
 ## Executable Version
 
-An executable version of the File Search Tool is available for easy use. Download the executable [FileSearch](FileSearch.exe) and follow the instructions in the [How to Run](#how-to-run) section to get started quickly.
+An executable version of the File Search Tool is available for easy use. Download the executable [FileSearchTool](FileSearchTool.exe) and follow the instructions in the [How to Run](#how-to-run-the-executable) section to get started quickly.
 
 ## Contributing
 
