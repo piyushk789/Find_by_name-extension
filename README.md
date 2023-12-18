@@ -61,7 +61,7 @@ Users can customize the list of supported file extensions by modifying the `getJ
 
 ## Executable Version
 
-An executable version of the File Search Tool is available for easy use. Download the executable [FileSearch](FileSearch) and follow the instructions in the [How to Run](#how-to-run) section to get started quickly.
+An executable version of the File Search Tool is available for easy use. Download the executable [FileSearch](FileSearch.exe) and follow the instructions in the [How to Run](#how-to-run) section to get started quickly.
 
 ## Contributing
 
